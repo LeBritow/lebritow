@@ -10,13 +10,13 @@
 ### 🌐 Redes
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://linkedin.com/in/brito002/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/SEU-INSTA">
+  <a href="https://instagram.com/oestagiariodetudo">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:SEU@EMAIL.COM">
+  <a href="mailto:gustavobrito170@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -46,7 +46,7 @@
 ### 📌 Projetos
 
 <p align="center">
-  <a href="https://github.com/lebritow/REPO-1">
+  <a href="https://github.com/LeBritow/FitFlow-Manager">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebritow&repo=REPO-1&theme=dark&hide_border=true"/>
   </a>
   <a href="https://github.com/lebritow/REPO-2">
