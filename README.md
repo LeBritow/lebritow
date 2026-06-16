@@ -7,6 +7,22 @@
 
 ---
 
+### 🌐 Redes
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/SEU-INSTA">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU@EMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 🧰 Tecnologias
 
 <p align="center">
@@ -22,6 +38,19 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Projetos
+
+<p align="center">
+  <a href="https://github.com/lebritow/REPO-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebritow&repo=REPO-1&theme=dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/lebritow/REPO-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebritow&repo=REPO-2&theme=dark&hide_border=true"/>
+  </a>
 </p>
 
 ---
