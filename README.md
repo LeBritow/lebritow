@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, sou Gustavo Brito</h1>
+<h1 align="center">👋 Olá</h1>
 
 <p align="center">
   🎓 <strong>Ciência da Computação</strong> — IFSP Salto &nbsp;|&nbsp;
@@ -29,7 +29,7 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lebritow&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lebritow&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebritow&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
