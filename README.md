@@ -49,8 +49,8 @@
   <a href="https://github.com/LeBritow/FitFlow-Manager">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeBritow&repo=FitFlow-Manager&theme=dark&hide_border=true"/>
   </a>
-  <a href="https://github.com/lebritow/REPO-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebritow&repo=REPO-2&theme=dark&hide_border=true"/>
+  <a href="https://github.com/LeBritow/CryptoFolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebritow&repo=CryptoFolio&theme=dark&hide_border=true"/>
   </a>
 </p>
 
